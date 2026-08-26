@@ -10,8 +10,9 @@ const required = [
   '$20.000.000',
   '10%',
   'Wompi',
+  'Shopify',
   '2,65%',
-  '$200.000',
+  'USD $25',
   'Alianza con Lorena',
   'Mapa de calor',
   'Propuesta 02'
